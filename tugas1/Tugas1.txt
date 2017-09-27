@@ -1,0 +1,278 @@
+1.Basic
+  1-1 :
+	1. Maju 1 petak
+	2. Maju 1 petak
+	3. Nyalakan lampu
+  1-2 :
+	1. Maju 1 petak
+	2. Maju 1 petak
+	3. Putar ke arah kiri
+	4. Maju 1 petak
+	5. Maju 1 petak
+	6. Putar ke arah kiri
+	7. Maju 1 petak
+	8. Maju 1 petak
+	9. Nyalakan lampu
+  1-3 :
+	1. Loncat 1 kali ke atas
+	2. Putar ke arah kanan
+	3. Loncat 1 kali ke atas
+	4. Putar ke arah kanan
+	5. Loncat 1 kali ke atas
+	6. nyalakan lampu
+  1-4 :
+	1. Maju 1 petak
+	2. Maju 1 petak
+	3. Putar ke arah kiri
+	4. Loncat 1 kali ke atas
+	5. Loncat 1 kali ke bawah
+	6. Loncat 1 kali ke atas
+	7. Loncat 1 kali ke atas
+	8. Nyalakan lampu
+  1-5 :
+	1. Nyalakan lampu
+	2. Loncat 1 kali ke bawah
+	3. Maju 1 petak
+	4. Putar ke arah kiri
+	5. Maju 1 petak
+	6. Nyalakan lampu
+	7. Loncat 1 kali ke bawah
+	8. Putar ke arah kiri
+	9. Maju 1 petak
+	10. Maju 1 petak
+	11. Nyalakan lampu
+  1-6 :
+	1. Loncat 1 kali ke atas
+	2. Putar ke arah kiri
+	3. Maju 1 petak
+	4. Loncat 1 kali ke atas
+	5. Nyalakan lampu
+	6. Putar ke arah kiri
+	7. Maju 1 petak
+	8. Maju 1 petak
+	9. Putar ke arah kanan
+	10.Loncat 1 kali ke atas
+	11.Maju 1 petak
+	12.Nyalakan lampu
+  1-7 : 
+	1. Maju 1 petak 
+	2. Putar ke arah kiri
+	3. Loncat 1 kali ke atas
+	4. Nyalakan lampu
+	5. Loncat 1 kali ke bawah
+	6. Nyalakan lampu
+	7. Putar ke arah kiri
+	8. Loncat 1 kali ke atas
+	9. Nyalakan lampu
+	10.Putar ke arah kiri
+	11.Loncat 1 kali ke atas
+	12.Nyalakan lampu
+  1-8 :
+	1. Loncat 1 kali ke atas
+	2. Loncat 1 kali ke atas
+	3. Putar ke arah kanan
+	4. Maju 1 petak
+	5. Putar ke arah kiri
+	6. Loncat 1 kali bawah
+	7. Nyalakan lampu
+	8. Putar ke arah kiri
+	9. Maju 1 petak
+	10. Nyalakan lampu
+	11. Loncat 1 kali
+	12. Nyalakan lampu
+
+2.Procedur
+  2-1 :
+	1. Maju 1 petak
+	2. Maju 1 petak
+	3. Maju 1 petak
+	4. Nyalakan lampu
+	5. Putar ke arah kanan
+	6. Maju 1 petak
+	7. Maju 1 petak
+	8. Maju 1 petak
+	9. Nyalakan lampu
+	10. Procedur 1 (P1)
+		  Procedur 1 (P1)
+		1. Putar ke kanan
+		2. Maju 1 petak
+		3. Maju 1 petak
+		4. Maju 1 petak
+		5. Nyalakan lampu
+  2-2 :
+	1. Maju 1 petak
+	2. Putar ke arah kiri
+	3. Maju 1 petak
+	4. Putar ke arah kanan
+	5. Maju 1 petak
+	6. Putar ke arah kiri
+	7. Maju 1 petak
+	8. Putar ke arah kanan
+	9. Maju 1 petak
+	10. Putar ke arah kiri
+	11. Maju 1 petak
+	12. Procedur 1 (P1)
+		  Procedur 1 (P1)
+		1. Putar ke arah kanan
+		2. Maju 1 petak
+		3. Putar ke arah kiri
+		4. Maju 1 petak
+		5. Nyalakan lampu
+ 2-3 : 
+	1. Maju 1 petak
+	2. Maju 1 petak
+	3. Maju 1 petak
+	4. Nyalakan lampu
+	5. Putar ke arah kiri
+	6. Lompat 1 kali ke atas
+	7. Lompat 1 kali ke atas
+	8. Nyalakan lampu
+	9. Putar ke arah kiri
+	10. Maju 1 petak
+	11. Maju 1 petak
+	12. Procedur 1 (P1)
+		  Procedur 1 (P1)
+		1. Maju 1 petak
+		2. Putar ke arah kiri
+		3. Lompat ke bawah
+		4. Nyalakan lampu
+ 2-4 :
+	1. Procedur 1 (P1)
+	2. Procedur 2 (P2)
+	3. Procedur 1 (P1)
+	4. Putar ke arah kiri
+	5. Maju 1 petak
+	6. Maju 1 petak
+	7. Putar ke arah kiri
+	8. Procedur 1 (P1)
+		  Procedur 1 (P1)
+		1. Maju 1 petak
+		2. Nyalakan lampu
+		3. Maju 1 petak
+		4. Nyalakan lampu
+		5. Maju 1 petak
+		6. Nyalakan lampu
+		7. Maju 1 petak
+		8. Nyalakan lampu
+		  Procedur 2 (P2)
+		1. Putar ke arah kanan
+		2. Maju 1 petak
+		3. Maju 1 petak
+		4. Putar ke arah kanan
+ 2-5 :
+	1. Procedur 1 (P1)
+	2. Procedur 2 (P2)
+	3. Putar ke arah kanan
+	4. Procedur 1 (P1)
+	5. Procedur 2 (P2)
+	6. Putar ke arah kanan
+	7. Procedur 1 (P1)
+		  Procedur (P1)
+		1. Nyalakan lampu
+		2. Lompat 1 kali ke atas
+		3. Nyalakan lampu
+		4. Lompat 1 kali ke atas
+		5. Nyalakan lampu
+		6. Lompat 1 kali ke atas
+	 	7. Nyalakan lampu
+		8. Putar ke arah kiri
+		  Procedur 2 (P2)
+		1. Lompat 1 kali ke bawah
+		2. Putar ke arah kiri
+		3. Maju 1 Petak
+		4. Maju 1 petak
+		5. Putar ke arah kanan
+		6. Maju 1 petak
+ 2-6 :
+	1. Procedur 1 (P1)
+	2. Putar ke arah kiri
+	3. Maju 1 petak
+	4. Putar ke arah kiri
+	5. Procedur 1 (P1)
+	6. Putar ke arah kanan
+	7. Lompat ke atas
+	8. Lompat ke bawah
+	9. Putar ke arah kanan
+	10. Procedur 1 (P1)
+	11. Putar ke arah kiri
+	12. Procedur 1 (P2)
+		  Procedur 1 (P1)
+		1. Nyalakan lampu
+		2. Maju 1 petak
+		3. Nyalakan lampu
+		4. Lompat 1 kali ke bawah
+		5. Lompat 1 kali ke atas
+		6. Nyalakan lampu
+		7. Maju 1 petak
+		8. Nyalakan lampu
+		  Procedur 2 (P2)
+		1. Maju 1 petak
+		2. Putar ke arah kiri
+		3. Procedur 1 (P1)
+3. Loops
+ 3-1 :
+	1. Procedur 1 (P1)
+	 	 Procedur 1 (P1)
+		1. Maju 1 petak
+		2. Nyalakan lampu
+		3. Procedur 1 (P1)
+ 3-2 :
+	1. Procedur 1 (P1)
+		  Procedur 1 (P1)
+		1. Lompat 1 kali ke atas
+		2. Nyalakan lampu
+		3. Procedur 1 (P1)
+ 3-3 :
+	1. Procedur 1 (P1)
+		  Procedur 1 (P1)
+		1. Maju 1 petak
+		2. Nyalakan lampu
+		3. Putar ke arah kiri
+		4. Maju 1 petak
+		5. Lompat 1 kali ke bawah
+		6. Nyalakan lampu
+		7. Lompat 1 kali ke atas
+		8. Procedur 1 (P1)
+ 3-4 :
+	1. Procedur 1 (P1)
+		  Procedur 1 (P1)
+		1. Nyalakan lampu
+		2. Maju 1 petak
+		3. Putar ke arah kiri
+		4. Maju 1 petak
+		5. Putar ke arah kiri
+		6. Procedur 1 (P1)
+ 3-5 :
+	1. Procedur 1 (P1)
+		  Procedur 1 (P1)
+		1. Nyalakan lampu
+		2. Loncat 1 kali ke bawah
+		3. Nyalakan lampu
+		4. Maju 1 petak
+		5. Nyalakan lampu
+		6. Maju 1 petak
+		7. Nyalakan lampu
+		8. Procedur 2 (P2)
+		  Procedur 2 (P2)
+		1. Lompat 1 kali ke bawah
+		2. Putar ke arah kiri
+		3. Procedur 1 (P1)
+ 3-6 :
+	1. Procedur 1 (P1)
+		  Procedur 1 (P1)
+		1. Nyalakan lampu
+		2. Lompat 1 kali ke atas
+		3. Putar ke arah kiri
+		4. Maju 1 petak
+		5. Nyalakan lampu
+		6. Putar ke arah kiri
+		7. Lompat 1 kali ke bawah
+		8. Procedur 2 (P2)
+		  Procedur 2 (P2)
+		1. Putar ke arah kiri 
+		2. Maju 1 petak
+		3. Putar ke arah kiri
+		4. Lompat 1 kali ke atas
+		5. Lompat 1 kali ke bawah
+		6. Putar ke arah kiri
+		7. Procedur 1 (P1)
